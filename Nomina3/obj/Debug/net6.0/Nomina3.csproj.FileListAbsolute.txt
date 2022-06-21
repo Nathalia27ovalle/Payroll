@@ -1,0 +1,15 @@
+C:\Users\Mahes\source\repos\Nomina3\bin\Debug\net6.0\Nomina3.exe
+C:\Users\Mahes\source\repos\Nomina3\bin\Debug\net6.0\Nomina3.deps.json
+C:\Users\Mahes\source\repos\Nomina3\bin\Debug\net6.0\Nomina3.runtimeconfig.json
+C:\Users\Mahes\source\repos\Nomina3\bin\Debug\net6.0\Nomina3.dll
+C:\Users\Mahes\source\repos\Nomina3\bin\Debug\net6.0\Nomina3.pdb
+C:\Users\Mahes\source\repos\Nomina3\obj\Debug\net6.0\Nomina3.csproj.AssemblyReference.cache
+C:\Users\Mahes\source\repos\Nomina3\obj\Debug\net6.0\Nomina3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahes\source\repos\Nomina3\obj\Debug\net6.0\Nomina3.AssemblyInfoInputs.cache
+C:\Users\Mahes\source\repos\Nomina3\obj\Debug\net6.0\Nomina3.AssemblyInfo.cs
+C:\Users\Mahes\source\repos\Nomina3\obj\Debug\net6.0\Nomina3.csproj.CoreCompileInputs.cache
+C:\Users\Mahes\source\repos\Nomina3\obj\Debug\net6.0\Nomina3.dll
+C:\Users\Mahes\source\repos\Nomina3\obj\Debug\net6.0\refint\Nomina3.dll
+C:\Users\Mahes\source\repos\Nomina3\obj\Debug\net6.0\Nomina3.pdb
+C:\Users\Mahes\source\repos\Nomina3\obj\Debug\net6.0\Nomina3.genruntimeconfig.cache
+C:\Users\Mahes\source\repos\Nomina3\obj\Debug\net6.0\ref\Nomina3.dll
